@@ -12,8 +12,8 @@ I enjoy solving complex consumer problems, turning ideas into products, and expl
 - 💡 Turning interesting ideas into working products
 
 ### Elsewhere
-- [LinkedIn]([YOUR_LINKEDIN_URL]: https://www.linkedin.com/in/aditya24khanna/
-- [Personal Website]([YOUR_WEBSITE_URL]: https://aditya24khanna.github.io/
+- **LinkedIn**: https://www.linkedin.com/in/aditya24khanna/
+- **Personal Website**: https://aditya24khanna.github.io/
 
 ---
 
